@@ -5,3 +5,8 @@ h1 {
 .souligne {
 	text-decoration: underline;
 }
+
+.exemple {
+	font-size: 12px;
+	color: blue;
+}
